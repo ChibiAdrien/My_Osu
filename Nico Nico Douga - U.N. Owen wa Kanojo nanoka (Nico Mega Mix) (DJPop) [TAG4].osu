@@ -2,89 +2,18 @@ osu file format v5
 
 [General]
 AudioFilename: U.N. Owen wa Kanojo nanoka (Nico Mega Mix).mp3
-//AudioLeadIn: 0
-PreviewTime: 12745
-Countdown: 0
-SampleSet: Normal
-?//StackLeniency: 0
-?//Mode: 0
-LetterboxInBreaks: 0
-EditorDistanceSpacing: 0.800000011920929
 
 [Metadata]
 Title:U.N. Owen wa Kanojo nanoka? (Nico Mega Mix)
 Artist:Nico Nico Douga
 Creator:DJPop
-Version:TAG4
-//Source:Nico Nico Douga
-//Tags:anime un u.n. owen was her owen wa kanojo nanoka ? nico nico douga mad
 
-[Difficulty]
-HPDrainRate:3
-CircleSize:5
-OverallDifficulty:8
-SliderMultiplier:2.56
+//[Difficulty]
+//HPDrainRate:3
+//CircleSize:5
+//OverallDifficulty:8
+//SliderMultiplier:2.56
 //SliderTickRate:1
-
-
-/*
-    [Events]
-    //Background and Video events
-    0,0,"U.N. Owen wa Kanojo nanoka (Nico Mega Mix).png"
-    1,49,"U.N. Owen wa Kanojo nanoka (Nico Mega Mix).avi"
-    //Break Periods
-    //Storyboard Layer 0 (Background)
-    //Storyboard Layer 1 (Failing)
-    //Storyboard Layer 2 (Passing)
-    //Storyboard Layer 3 (Foreground)
-    //Storyboard Sound Samples
-    //Background Colour Transformations
-    3,100,0,0,0
-
-*/
-
-[TimingPoints]
-674,300,4,1,0,100,1,0
-11624,-100,4,1,0,0,0,0
-13274,-100,4,1,0,50,0,0
-49274,-200,4,1,0,50,0,0
-49574,-100,4,1,0,50,0,0
-56774,-50,4,1,0,50,0,0
-56924,-100,4,1,0,50,0,0
-73274,-50,4,1,0,50,0,0
-73424,-100,4,1,0,50,0,0
-75674,-50,4,1,0,50,0,0
-75824,-100,4,1,0,50,0,0
-96974,-50,4,1,0,50,0,0
-97124,-100,4,1,0,50,0,0
-118874,-100,4,1,0,100,0,0
-119174,-100,4,1,0,50,0,0
-123674,-200,4,1,0,50,0,0
-123974,-100,4,1,0,50,0,0
-133799,-100,4,1,1,50,0,0
-138599,-100,4,1,0,50,0,0
-139274,-200,4,1,0,50,0,0
-139574,-100,4,1,0,50,0,0
-141674,-200,4,1,1,50,0,0
-141974,-100,4,1,0,50,0,0
-152474,-200,4,1,1,50,0,0
-152774,-100,4,1,1,50,0,0
-152924,-100,4,1,0,50,0,0
-166874,-100,4,1,0,100,0,0
-167174,-100,4,1,0,50,0,0
-176474,-100,4,1,0,100,0,0
-176774,-100,4,1,0,50,0,0
-181199,-100,4,1,1,50,0,0
-181724,-100,4,1,0,50,0,0
-206024,-100,4,1,0,100,0,0
-206324,-100,4,1,0,100,0,1
-210299,-100,4,1,0,0,0,0
-
-[Colours]
-Combo1 : 255,255,0
-Combo2 : 0,255,0
-Combo3 : 0,0,255
-Combo4 : 255,0,0
 
 [HitObjects]
 256,192,3974,12,8,5774

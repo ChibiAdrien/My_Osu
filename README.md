@@ -1,1 +1,1 @@
-# My_Osu
+# My_ozu

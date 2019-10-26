@@ -2,12 +2,12 @@ osu file format v5
 
 [General]
 AudioFilename: U.N. Owen wa Kanojo nanoka (Nico Mega Mix).mp3
-AudioLeadIn: 0
+//AudioLeadIn: 0
 PreviewTime: 12745
 Countdown: 0
 SampleSet: Normal
-StackLeniency: 0
-Mode: 0
+?//StackLeniency: 0
+?//Mode: 0
 LetterboxInBreaks: 0
 EditorDistanceSpacing: 0.800000011920929
 
@@ -16,28 +16,32 @@ Title:U.N. Owen wa Kanojo nanoka? (Nico Mega Mix)
 Artist:Nico Nico Douga
 Creator:DJPop
 Version:TAG4
-Source:Nico Nico Douga
-Tags:anime un u.n. owen was her owen wa kanojo nanoka ? nico nico douga mad
+//Source:Nico Nico Douga
+//Tags:anime un u.n. owen was her owen wa kanojo nanoka ? nico nico douga mad
 
 [Difficulty]
 HPDrainRate:3
 CircleSize:5
 OverallDifficulty:8
 SliderMultiplier:2.56
-SliderTickRate:1
+//SliderTickRate:1
 
-[Events]
-//Background and Video events
-0,0,"U.N. Owen wa Kanojo nanoka (Nico Mega Mix).png"
-1,49,"U.N. Owen wa Kanojo nanoka (Nico Mega Mix).avi"
-//Break Periods
-//Storyboard Layer 0 (Background)
-//Storyboard Layer 1 (Failing)
-//Storyboard Layer 2 (Passing)
-//Storyboard Layer 3 (Foreground)
-//Storyboard Sound Samples
-//Background Colour Transformations
-3,100,0,0,0
+
+/*
+    [Events]
+    //Background and Video events
+    0,0,"U.N. Owen wa Kanojo nanoka (Nico Mega Mix).png"
+    1,49,"U.N. Owen wa Kanojo nanoka (Nico Mega Mix).avi"
+    //Break Periods
+    //Storyboard Layer 0 (Background)
+    //Storyboard Layer 1 (Failing)
+    //Storyboard Layer 2 (Passing)
+    //Storyboard Layer 3 (Foreground)
+    //Storyboard Sound Samples
+    //Background Colour Transformations
+    3,100,0,0,0
+
+*/
 
 [TimingPoints]
 674,300,4,1,0,100,1,0
